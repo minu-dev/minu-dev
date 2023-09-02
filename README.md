@@ -1,8 +1,9 @@
 <div align="center">
 
-'''
-Hello World!
-'''
+
+```C
+printf("Hello World!");
+```
   
 <br>
   
