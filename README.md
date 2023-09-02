@@ -1,7 +1,7 @@
 <div align="center">
 
 ```C
-printf("Welcome to my page!");
+printf("Welcome to my page! 😀");
 ```
 ##
   
