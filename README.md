@@ -6,7 +6,7 @@ printf("Welcome to my page! 😀");
   
 <br>
   
-#### ** Solved.ac**
+#### **Solved.ac**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qoralsdn505)](https://solved.ac/qoralsdn505)
   
 #### **Contact**
