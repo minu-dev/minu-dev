@@ -10,7 +10,7 @@ printf("Skills 🔥");
 ```
 
 <img src="https://img.shields.io/badge/C-007396?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
