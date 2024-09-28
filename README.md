@@ -12,9 +12,21 @@ printf("Skills 🔥");
 <img src="https://img.shields.io/badge/C-007396?style=flat&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/FL%20Studio-123456?style=flat&logo=instacart&logoColor=orange" />
+
+#
+
+```C
+printf("The licenses I got are... 🤔");
+```
+
+<img src="https://img.shields.io/badge/데아터분석준전문가(ADsP)-3153d2" />
+<img src="https://img.shields.io/badge/정보처리기능사-3f3f3f" />
 
 #
 
@@ -22,6 +34,7 @@ printf("Skills 🔥");
 printf("Baekjoon (Solved.ac) 📖");
 ```
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=qoralsdn505)](https://solved.ac/qoralsdn505)
+
 #
   
 ```C
