@@ -26,6 +26,7 @@ printf("The licenses I got are... 🤔");
 ```
 
 <img src="https://img.shields.io/badge/데아터분석준전문가(ADsP)-3153d2" />
+<img src="https://img.shields.io/badge/SQLD-eab676" />
 <img src="https://img.shields.io/badge/정보처리기능사-3f3f3f" />
 
 #
